@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+backend/.env
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+backend/smartmail.db
+backend/smartmail.db-wal
+backend/smartmail.db-shm
